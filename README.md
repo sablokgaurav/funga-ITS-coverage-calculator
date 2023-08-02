@@ -11,7 +11,8 @@ fungalMetagenomicsCoverageCalculator(its_file = "/Users/gauravsablok/Desktop/Cod
 {'FJ554463_uncultured_': 16.99421965317919, 
  'FJ554462_uncultured_': 22.70327349524815, 
  'FJ554460_uncultured_': 20.184426229508194, 
- 'FJ554459_uncultured_': 20.17075773745998}```
+ 'FJ554459_uncultured_': 20.17075773745998}
+```
 
 Gaurav Sablok \
 Senior Postdoctoral Fellow \
