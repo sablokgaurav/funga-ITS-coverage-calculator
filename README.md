@@ -1,4 +1,4 @@
-# fungal_metagenomics_ITS_coverage_calculator
+# fungal-ITS-coverage-calculator
 I coded this function to estimate the fraction of the ITS predictions from the fungal metagenomics and it estimates by taking into account the sequence length and also the ITS1 and ITS2 start and stop coordinates. Provided a keyworded argument, it estimates the coverage accordingly. This was missing in ITS predictions, so i coded this to enable a plot visualization to see how much your sequence fragement is covered. 
 
 ```python 
