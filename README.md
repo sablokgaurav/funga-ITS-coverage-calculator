@@ -17,7 +17,7 @@ fungalMetagenomicsCoverageCalculator(its_file = \
  'FJ554460_uncultured_': 20.184426229508194, 
  'FJ554459_uncultured_': 20.17075773745998}
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
